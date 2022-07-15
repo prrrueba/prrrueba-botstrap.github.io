@@ -1,0 +1,74 @@
+.d-block.img-fluid
+
+.ancho{
+	width:960px;
+	/*border:10pxsolid #000;*/
+	margin-right:auto;
+	margin-left:auto;
+	}
+
+footer{
+	padding:20px 0px;
+	border-radius:0px 0px 50px 50px;
+	background:#000;
+	text-align:center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size:18px;
+	color:#ffffff;	
+	clear:both;
+
+}
+.articulos, .publi{
+		background:#EDFCEF		
+}
+
+
+.articulos {
+	width:69.5%;
+	float:left;
+	margin-right:0.5%;
+
+}
+
+.publi {
+	width:30%;
+	float:left;
+	margin-left:0.5%:
+}
+
+.publi img{
+	width:100%;
+}
+
+.textos{
+	
+	margin:10px;
+	padding:10px;
+	background:#EAB5E7;
+	
+}
+
+
+.active {
+    background-color: #ffffff;
+}
+
+
+.pol {
+	height:631.5px;
+	width: 931.5px;	
+}
+
+
+
+.tipos img{
+	width:10%;
+	float:left;
+}
+
+.facebook:hover {filter: opacity(.5);}
+.youtube:hover {filter: opacity(.5);}
+.instagram:hover {filter: opacity(.5);}
+
+
+
